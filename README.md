@@ -2,6 +2,8 @@
 
 Fast, feature-rich Golang language support
 
+![Logo](./img/icon.jpeg)
+
 # Tasks
 
 - [x] Auto Imports
