@@ -1,4 +1,4 @@
-# Golance 
+# Golance <img src="./img/gopher.svg" height=30 width=30>
 
 ![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/BrunoCiccarino.golance?style=for-the-badge&color=blue) ![Static Badge](https://img.shields.io/badge/pr's-welcome-grey?style=for-the-badge&color=green)
 
